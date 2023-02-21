@@ -1,0 +1,9 @@
+---------------------- TASK OVERVIEW ----------------------
+    
+    Total Number of Tasks                       : 3
+    Total Number of Completed Tasks             : 1
+    Total Number of Incompleted Tasks           : 2
+    Total Count of Overdue and Incomplete Tasks : 2
+
+    Percentage of Tasks that are Incomplete     : 67
+    Percentage of Tasks that are Overdue        : 66.67

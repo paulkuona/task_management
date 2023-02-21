@@ -1,0 +1,50 @@
+---------------- USER OVERVIEW REPORT ---------------
+
+TASK AND USER OVERVIEW
+Total Number of Registered User : 5
+Total Number of Tasks           : 3
+---------------------- ADMIN ----------------------
+
+Total Number of Tasks                       : 2
+Percentage of Tasks Allocated               : 66.67%
+Completion Progress                         : 50.0% 
+Percentage of Tasks Incomplete              : 50.0%
+Percentage of Tasks Overdue & Incomplete    : 50.0%
+
+
+---------------------- PKUONA ----------------------
+
+Total Number of Tasks                       : 1
+Percentage of Tasks Allocated               : 33.33%
+Completion Progress                         : 0.0% 
+Percentage of Tasks Incomplete              : 100.0%
+Percentage of Tasks Overdue & Incomplete    : 100.0%
+
+
+---------------------- PKAY ----------------------
+
+Total Number of Tasks                       : 0
+Percentage of Tasks Allocated               : 0%
+Completion Progress                         : 0% 
+Percentage of Tasks Incomplete              : 0%
+Percentage of Tasks Overdue & Incomplete    : 0%
+
+
+---------------------- PAUL ----------------------
+
+Total Number of Tasks                       : 0
+Percentage of Tasks Allocated               : 0%
+Completion Progress                         : 0% 
+Percentage of Tasks Incomplete              : 0%
+Percentage of Tasks Overdue & Incomplete    : 0%
+
+
+---------------------- MALVERN ----------------------
+
+Total Number of Tasks                       : 0
+Percentage of Tasks Allocated               : 0%
+Completion Progress                         : 0% 
+Percentage of Tasks Incomplete              : 0%
+Percentage of Tasks Overdue & Incomplete    : 0%
+
+
